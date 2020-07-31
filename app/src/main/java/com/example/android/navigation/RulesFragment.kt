@@ -29,3 +29,4 @@ class RulesFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_rules, container, false)
     }
 }
+
